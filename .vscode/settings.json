@@ -1,0 +1,10 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.autoForwardPortsSource": "process",
+  "remote.portsAttributes": {
+    "5900": {
+      "label": "Windows Server VM (VNC)",
+      "onAutoForward": "notify"
+    }
+  }
+}
